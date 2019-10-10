@@ -3,6 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B69698B7-149B-4BB5-8F49-CA0C1F46DB63}"
+	ProjectSection(SolutionItems) = preProject
+		Ä, ä, Ë, ë, Ï, ï, Ÿ,.ico = Ä, ä, Ë, ë, Ï, ï, Ÿ,.ico
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
